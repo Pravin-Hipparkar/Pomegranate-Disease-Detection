@@ -1,0 +1,21 @@
+Core Streamlit application library
+
+streamlit
+
+Deep Learning Framework
+
+torch
+torchvision
+
+Image Handling
+
+Pillow
+
+For external file download (Google Drive model download)
+
+requests
+
+For final evaluation metrics (used in training/logging)
+
+scikit-learn
+numpy
